@@ -2,7 +2,7 @@
 
 #### _A JavaScript Calculator, May 31, 2016_
 
-#### By _**Marty Fitchen, Sky Rousse**_
+#### By _**Marty Fitchen, Sky Rousse, George Olsen**_
 
 ## Description
 
@@ -26,7 +26,7 @@ _JavaScript was used to create the calculator._
 
 *MIT License*
 
-Copyright (c) 2016 **_Marty Fitchen, Sky Rousee, Epicodus_**
+Copyright (c) 2016 **_Marty Fitchen, Sky Rousee, George Olsen, Epicodus_**
 
 _Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
